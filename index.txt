@@ -1,0 +1,7 @@
+Part 1 - Header, Home 
+Part 2 - About
+Part 4 - Skills
+Part 5 - Portfolio
+Part 8 - Contact
+Part 9 - Footer, Fixed Header, Linking Navbar
+Part 10 - Responsive
